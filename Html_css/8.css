@@ -1,0 +1,39 @@
+    h5
+    {
+        margin-left: 200px ;
+        color: red;
+        width: 550px ;
+        font-size: 25px;
+    }
+    h1{
+        margin-left: 200px ;
+        color: gray;
+        width: 550px ;
+        font-size: 10px;
+    }
+
+    h3{
+        margin-left: 230px ;
+        color: black;
+        width: 540px ;
+        font-size: 18px;  
+    }
+    ul{
+        margin-left: 230px ;
+        width: 550px ;
+        color: grey;
+        font-size: 12px;  
+    }
+    img{
+        margin-left: 230px ;
+        margin-top: 10px;
+        width: 480px ;
+    }
+    h2
+    {
+        margin-left: 230px ;
+        color: rgb(71, 66, 66);
+        width: 540px ;
+        font-size: 13px;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;  
+    }
